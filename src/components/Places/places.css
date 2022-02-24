@@ -1,0 +1,43 @@
+.places-container {
+  display: flex;
+  flex-direction: column;
+  background-color: brown;
+  margin: 10px;
+}
+.place-name {
+  padding-bottom: 10px;
+}
+
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  object-fit: contain;
+}
+
+.name-info {
+  display: flex;
+  gap: 50%;
+}
+
+.ranking {
+  display: flex;
+  gap: 30%;
+}
+
+.addr {
+  display: flex;
+  gap: 20%;
+}
+.places-contact {
+  display: flex;
+  justify-content: flex-end;
+}
+
+button {
+  color: blue;
+  background: transparent;
+  outline: none;
+  border: none;
+}

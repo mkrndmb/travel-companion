@@ -1,0 +1,11 @@
+.App {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.content {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+}

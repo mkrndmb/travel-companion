@@ -1,0 +1,10 @@
+.list {
+  width: 40vw;
+}
+.list-items {
+  max-height: 100vh;
+  overflow: scroll;
+}
+.filters {
+  display: flex;
+}

@@ -1,0 +1,21 @@
+.map {
+  width: 60vw;
+  height: 100vh;
+  position: relative;
+}
+
+.map-pic {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: white;
+  height: max-content;
+  width: max-content;
+  padding: 10px;
+}
+
+.map-img {
+  max-height: 50px;
+  max-width: 50px;
+}
